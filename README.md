@@ -1,5 +1,5 @@
 # Visitor entry billing system
-<h2>一套VUE访客入场计费系统-前端 后端链接：https://github.com/Whbgz/visitors_node  </h2>
+<h2>一套VUE-Naviui访客入场计费系统-前端 后端链接：https://github.com/Whbgz/visitors_node  </h2>
 
 **用户页**  
 
