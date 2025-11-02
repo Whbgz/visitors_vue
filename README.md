@@ -1,5 +1,6 @@
 # Visitor entry billing system
-<h2>一套VUE-Naviui访客入场计费系统-前端 后端链接：https://github.com/Whbgz/visitors_node  </h2>
+<h2>一套VUE-Naviui访客入场计费系统-前端 后端链接：https://github.com/Whbgz/visitors_node  </h2>  
+<h2>演示地址：https://visitors-vercel.vercel.app 账户：admin 密码：123456 演示地址内任何新建数据都为临时数据，将在1分钟内销毁</h2>
 
 **用户页**  
 
